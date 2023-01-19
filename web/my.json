@@ -1,0 +1,39 @@
+{
+    "Enroll_ID": 1,
+    "Student_ID": 10,
+    "Batch_ID": 1,
+    "Course_ID": 1, 
+    "Branch_id": 1,
+    "Joindate": "22", 
+    "student": {
+        "STUDENT_ID": 10,
+        "first_name": "Madushan",
+        "last_name": "joel",
+        "DOB": "2022-11-10",
+        "address": "30/19,8th Lane,sevalipura,Borella,Colombo-08,Sri Lanka",
+        "mobile_no": "+94756950568",
+        "NIC": "98002682V",
+        "gender": "m",
+        "email": "madushanjoel@gmail.com"
+    },
+    "batch": {
+        "Batch_NO": 1,
+        "Course_ID": 1,
+        "Branch_id": 1,
+        "batch_name": "HND COM weekend", 
+        "batch_start": "2022-12-15",
+        "batch_close_date": "2023-01-05",
+        "batch_END_DATE": "2024-09-12",
+        "courses": {
+            "Course_ID": 1,
+            "course_name": "HND in Computing",
+            "description": "HND in Computing",
+            "price": 200000.0
+        },
+        "branch": {
+            "branch_id": 1,
+            "branch_location": "Colombo",
+            "name": "Bambalapitya-IT and  Bussiness"
+        }
+    }
+}
